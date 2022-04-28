@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'eab0c88a2aa0c18601663d93fc271d2f03cb2624',
+        'reference' => '96d074c0cbb36d741954d82d73cd8cb8a129e7dc',
         'name' => 'lagoon-examples/drupal9-postgres',
         'dev' => true,
     ),
@@ -1105,7 +1105,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'eab0c88a2aa0c18601663d93fc271d2f03cb2624',
+            'reference' => '96d074c0cbb36d741954d82d73cd8cb8a129e7dc',
             'dev_requirement' => false,
         ),
         'laminas/laminas-diactoros' => array(
@@ -1921,12 +1921,12 @@
             ),
         ),
         'symfony/string' => array(
-            'pretty_version' => 'v6.0.3',
-            'version' => '6.0.3.0',
+            'pretty_version' => 'v6.0.8',
+            'version' => '6.0.8.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/string',
             'aliases' => array(),
-            'reference' => '522144f0c4c004c80d56fa47e40e17028e2eefc2',
+            'reference' => 'ac0aa5c2282e0de624c175b68d13f2c8f2e2649d',
             'dev_requirement' => false,
         ),
         'symfony/translation' => array(
