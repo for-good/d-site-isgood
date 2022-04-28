@@ -1,0 +1,6 @@
+name: isgood-webapp
+recipe: lagoon
+config:
+  flavor: drupal
+  build:
+    - composer install
