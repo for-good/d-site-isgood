@@ -18,7 +18,7 @@ docker-compose down
 docker-compose build && docker-compose up -d
 
 # Ensure postgres pod is ready to connect
-docker run --rm --net isgood-webapp_default amazeeio/dockerize dockerize -wait tcp://postgres:5432 -timeout 1m
+docker run --rm --net d-site-isgood_default amazeeio/dockerize dockerize -wait tcp://postgres:5432 -timeout 1m
 ```
 
 Verification commands
@@ -33,16 +33,16 @@ docker-compose exec -T cli bash -c "drush cr -y"
 docker-compose exec -T cli bash -c "drush status" | grep "Drupal bootstrap" | grep "Successful"
 
 # Should have all the services we expect
-docker ps --filter label=com.docker.compose.project=isgood-webapp | grep Up | grep isgood-webapp_nginx_1
-docker ps --filter label=com.docker.compose.project=isgood-webapp | grep Up | grep isgood-webapp_postgres_1
-docker ps --filter label=com.docker.compose.project=isgood-webapp | grep Up | grep isgood-webapp_php_1
-docker ps --filter label=com.docker.compose.project=isgood-webapp | grep Up | grep isgood-webapp_cli_1
+docker ps --filter label=com.docker.compose.project=d-site-isgood | grep Up | grep d-site-isgood_nginx_1
+docker ps --filter label=com.docker.compose.project=d-site-isgood | grep Up | grep d-site-isgood_postgres_1
+docker ps --filter label=com.docker.compose.project=d-site-isgood | grep Up | grep d-site-isgood_php_1
+docker ps --filter label=com.docker.compose.project=d-site-isgood | grep Up | grep d-site-isgood_cli_1
 
 # Should ssh against the cli container by default
 docker-compose exec -T cli bash -c "env | grep LAGOON=" | grep cli-drupal
 
 # Should have the correct environment set
-docker-compose exec -T cli bash -c "env" | grep LAGOON_ROUTE | grep isgood-webapp.docker.amazee.io
+docker-compose exec -T cli bash -c "env" | grep LAGOON_ROUTE | grep d-site-isgood.docker.amazee.io
 docker-compose exec -T cli bash -c "env" | grep LAGOON_ENVIRONMENT_TYPE | grep development
 
 # Should be running PHP 8

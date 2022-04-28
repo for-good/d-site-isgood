@@ -21,9 +21,9 @@
 
   <p align="center">
     🎉 New isgood Website (re-)build for 2022 Launch 🚀 - built on Drupal
-    <br />
+<!--    <br />
     <a href="https://docs.isgood.ai"><strong>Explore the docs »</strong></a>
-    <br />
+    <br /> -->
     <br />
     <a href="https://isgood.ai">View Site</a>
     ·

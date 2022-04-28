@@ -1,4 +1,4 @@
-name: isgood-webapp
+name: d-site-isgood
 recipe: lagoon
 config:
   flavor: drupal

@@ -1,6 +1,6 @@
 docker-compose-yaml: docker-compose.yml
 
-project: isgood-webapp
+project: d-site-isgood
 
 tasks:
 #   pre-rollout:
