@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "monolog/monolog": "^1.24.0 || ^2.0"
+        "monolog/monolog": "2.6.0"
     },
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev"
