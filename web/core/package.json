@@ -59,7 +59,7 @@
     "@drupal/once": "1.0.1",
     "@popperjs/core": "2.10.2",
     "babel-plugin-add-header-comment": "1.0.3",
-    "backbone": "1.4.0",
+    "backbone": "1.4.1",
     "chalk": "4.1.2",
     "chokidar": "3.5.3",
     "chromedriver": "87.0.7",
