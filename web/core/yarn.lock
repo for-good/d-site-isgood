@@ -1318,12 +1318,12 @@
     "@ckeditor/ckeditor5-theme-lark" "^31.1.0"
     ckeditor5 "^31.1.0"
 
-"@ckeditor/ckeditor5-special-characters@31.0.0":
-  version "31.0.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-special-characters/-/ckeditor5-special-characters-31.0.0.tgz#d6534ee116e03f4b11ebd3e37db68a833ad594eb"
-  integrity sha512-ja7WjK+GHpfql+CmVV1R6m5ukiQwwenFaiwyf0e8JYrvG0h7brt32ala8Faum/HvwpaTjoLJZRLlxgtt1sTdQg==
+"@ckeditor/ckeditor5-special-characters@31.1.0":
+  version "31.1.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-special-characters/-/ckeditor5-special-characters-31.1.0.tgz#14c6c532e9fa1c59bf3476b069ac127b50e700e1"
+  integrity sha512-EvEM2L2E+vgRCYQ0ntBWxT8H8P7/vDlnO1iHQ2GoUYIQPldqqydBayESz5mI0+yH98PHNY6L9GEZImn445k4TA==
   dependencies:
-    ckeditor5 "^31.0.0"
+    ckeditor5 "^31.1.0"
 
 "@ckeditor/ckeditor5-table@31.0.0":
   version "31.0.0"
