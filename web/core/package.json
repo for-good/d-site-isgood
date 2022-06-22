@@ -48,7 +48,7 @@
     "@ckeditor/ckeditor5-html-support": "34.1.0",
     "@ckeditor/ckeditor5-image": "34.1.0",
     "@ckeditor/ckeditor5-indent": "34.1.0",
-    "@ckeditor/ckeditor5-language": "31.1.0",
+    "@ckeditor/ckeditor5-language": "34.1.0",
     "@ckeditor/ckeditor5-link": "31.1.0",
     "@ckeditor/ckeditor5-list": "31.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "31.1.0",
