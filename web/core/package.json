@@ -50,7 +50,7 @@
     "@ckeditor/ckeditor5-indent": "34.1.0",
     "@ckeditor/ckeditor5-language": "34.1.0",
     "@ckeditor/ckeditor5-link": "34.1.0",
-    "@ckeditor/ckeditor5-list": "31.1.0",
+    "@ckeditor/ckeditor5-list": "34.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "31.1.0",
     "@ckeditor/ckeditor5-remove-format": "31.1.0",
     "@ckeditor/ckeditor5-source-editing": "31.1.0",
