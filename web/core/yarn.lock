@@ -1272,12 +1272,12 @@
   dependencies:
     ckeditor5 "^34.1.0"
 
-"@ckeditor/ckeditor5-html-support@31.1.0":
-  version "31.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-html-support/-/ckeditor5-html-support-31.1.0.tgz#444ed43aee8b5451facc48b3689c8f7575cc4532"
-  integrity sha512-aleoNnUDWTKo5Jg55cM8dQ+z5whEU4xEiImMO7i4I+nrtPXeorACgsoQAAEG95wYPPwdz8IjvWbkDX9nNw+4oQ==
+"@ckeditor/ckeditor5-html-support@34.1.0":
+  version "34.1.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-html-support/-/ckeditor5-html-support-34.1.0.tgz#69bd79188474acfd1f2c37001f9b6ca013c0c0f8"
+  integrity sha512-8X+KYkhgfRAiyqgrFzCpt4AuLLOTaVf8XbD26OiOqa6RNNcyGmh9+WkFcCbwgxCpAwpAgDB8vU5xqj6asZFqBw==
   dependencies:
-    ckeditor5 "^31.1.0"
+    ckeditor5 "^34.1.0"
     lodash-es "^4.17.15"
 
 "@ckeditor/ckeditor5-image@31.1.0":
