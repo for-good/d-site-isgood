@@ -103,7 +103,7 @@
     "prettier": "2.5.1",
     "raw-loader": "4.0.2",
     "shepherd.js": "8.3.1",
-    "sortablejs": "1.14.0",
+    "sortablejs": "1.15.0",
     "stylelint": "13.13.1",
     "stylelint-checkstyle-formatter": "0.1.2",
     "stylelint-config-standard": "20.0.0",
