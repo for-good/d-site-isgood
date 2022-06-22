@@ -45,7 +45,7 @@
         "symfony/psr-http-message-bridge": "2.1.2",
         "laminas/laminas-diactoros": "2.11.0",
         "composer/semver": "3.3.2",
-        "asm89/stack-cors": "1.3.0",
+        "asm89/stack-cors": "2.1.1",
         "pear/archive_tar": "1.4.14",
         "psr/log": "1.1.4"
     },
