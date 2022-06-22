@@ -1312,12 +1312,13 @@
     ckeditor5 "^34.1.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-list@31.1.0":
-  version "31.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-list/-/ckeditor5-list-31.1.0.tgz#0c8906ad30419c5f156c19b461555cdb8535637f"
-  integrity sha512-/L/wsqeW4r7VF+HNDs58tXtSCIPODqlAJ82zMt3Pk5wx8BgXmFgguZ3RRZJdC3CyP6VZwfDMAzDNgU6H51+Tuw==
+"@ckeditor/ckeditor5-list@34.1.0":
+  version "34.1.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-list/-/ckeditor5-list-34.1.0.tgz#266191a3f546f3fb3679de5825f3af25445276de"
+  integrity sha512-OD3cJ+WngMgMjCh+w3JQh2qveP6DNYhtx7tA0pVmuyx+DZzGpb2DYg6ie5JxhenHgVbJP9dHx620k9YjdYR3NQ==
   dependencies:
-    ckeditor5 "^31.1.0"
+    "@ckeditor/ckeditor5-ui" "^34.1.0"
+    ckeditor5 "^34.1.0"
 
 "@ckeditor/ckeditor5-paragraph@^31.1.0":
   version "31.1.0"
