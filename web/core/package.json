@@ -60,7 +60,7 @@
     "@popperjs/core": "2.11.5",
     "babel-plugin-add-header-comment": "1.0.3",
     "backbone": "1.4.1",
-    "chalk": "4.1.2",
+    "chalk": "5.0.1",
     "chokidar": "3.5.3",
     "chromedriver": "87.0.7",
     "ckeditor5": "31.1.0",
