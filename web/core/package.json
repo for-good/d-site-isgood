@@ -49,7 +49,7 @@
     "@ckeditor/ckeditor5-image": "31.1.0",
     "@ckeditor/ckeditor5-indent": "31.1.0",
     "@ckeditor/ckeditor5-language": "31.1.0",
-    "@ckeditor/ckeditor5-link": "31.0.0",
+    "@ckeditor/ckeditor5-link": "31.1.0",
     "@ckeditor/ckeditor5-list": "31.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "31.0.0",
     "@ckeditor/ckeditor5-remove-format": "31.0.0",
