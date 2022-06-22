@@ -1161,12 +1161,12 @@
     "@ckeditor/ckeditor5-utils" "^34.1.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-dev-utils@30.3.0", "@ckeditor/ckeditor5-dev-utils@^30.3.0":
-  version "30.3.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.0.tgz#35e4d7b1d92896b8022db97140e0b20ed104af06"
-  integrity sha512-B5UKYuN4L4O0oCNgjxNbUK8djwko2ffADR7xfuDi9XS4+HfnsiSUHbdkUWrAjYMZU0/BIeIaE5XfDguta28L3A==
+"@ckeditor/ckeditor5-dev-utils@30.3.1", "@ckeditor/ckeditor5-dev-utils@^30.3.1":
+  version "30.3.1"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.1.tgz#c29d9d9cbb0f0c92ebea6552443c36f6fa9ba2b3"
+  integrity sha512-NiDSytdOXQ3iPwRBx6Q3f0kTZtmqGnRrvQe5BBl+7vJqLuKuwFKNn8aWItVI9t8B4PXYlapnKzDRdOAFFP1khw==
   dependencies:
-    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.0"
+    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.1"
     acorn "^6.2.1"
     acorn-walk "^6.2.0"
     chalk "^3.0.0"
@@ -1189,13 +1189,14 @@
     style-loader "^2.0.0"
     terser-webpack-plugin "^4.2.3"
     through2 "^3.0.1"
+    ts-loader "^9.3.0"
 
-"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.0":
-  version "30.3.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.0.tgz#6835ed243a8f6ec99455e2a2074153b7fe92cc9d"
-  integrity sha512-+APlN08+l0KxZQGNcbxyChVZfOoXAYRWbJodzzrqHcu2Shq+j3Cuza6njiU4DLJwxHUrx3EmdXcYUXAFtJue9Q==
+"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.1":
+  version "30.3.1"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.1.tgz#be9ac4449ed6f5e0389721749ddac794a980df75"
+  integrity sha512-UZGqVilIsSpH44boickJz10a3yG+ojdMkLo0aKXmeoNBC2LdXBC+riWXeh9LaqG4MyKKSwK3xIdL85YFyziWDQ==
   dependencies:
-    "@ckeditor/ckeditor5-dev-utils" "^30.3.0"
+    "@ckeditor/ckeditor5-dev-utils" "^30.3.1"
     chalk "^4.0.0"
     rimraf "^3.0.2"
     semver "^7.3.4"
@@ -3632,7 +3633,7 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-enhanced-resolve@^5.9.3:
+enhanced-resolve@^5.0.0, enhanced-resolve@^5.9.3:
   version "5.9.3"
   resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.9.3.tgz#44a342c012cbc473254af5cc6ae20ebd0aae5d88"
   integrity sha512-Bq9VSor+kjvW3f9/MiiR4eE3XYgOl7/rS8lnSxbRbF3kS0B2r+Y9w5krBWxZgDxASVZbdYrn5wT4j/Wb0J9qow==
@@ -5640,6 +5641,14 @@ micromark@~2.11.0:
     debug "^4.0.0"
     parse-entities "^2.0.0"
 
+micromatch@^4.0.0, micromatch@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-4.0.5.tgz#bc8999a7cbbf77cdc89f132f6e467051b49090c6"
+  integrity sha512-DMy+ERcEW2q8Z2Po+WNXuw3c5YaUSFjAO5GsJqfEl7UjvtIuFKO6ZrKvcItdy98dwFI2N1tg3zNIdKaQT+aNdA==
+  dependencies:
+    braces "^3.0.2"
+    picomatch "^2.3.1"
+
 micromatch@^4.0.4:
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-4.0.4.tgz#896d519dfe9db25fce94ceb7a500919bf881ebf9"
@@ -5647,14 +5656,6 @@ micromatch@^4.0.4:
   dependencies:
     braces "^3.0.1"
     picomatch "^2.2.3"
-
-micromatch@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-4.0.5.tgz#bc8999a7cbbf77cdc89f132f6e467051b49090c6"
-  integrity sha512-DMy+ERcEW2q8Z2Po+WNXuw3c5YaUSFjAO5GsJqfEl7UjvtIuFKO6ZrKvcItdy98dwFI2N1tg3zNIdKaQT+aNdA==
-  dependencies:
-    braces "^3.0.2"
-    picomatch "^2.3.1"
 
 mime-db@1.51.0:
   version "1.51.0"
@@ -8180,6 +8181,16 @@ trough@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/trough/-/trough-1.0.5.tgz#b8b639cefad7d0bb2abd37d433ff8293efa5f406"
   integrity sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA==
+
+ts-loader@^9.3.0:
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-9.3.0.tgz#980f4dbfb60e517179e15e10ed98e454b132159f"
+  integrity sha512-2kLLAdAD+FCKijvGKi9sS0OzoqxLCF3CxHpok7rVgCZ5UldRzH0TkbwG9XECKjBzHsAewntC5oDaI/FwKzEUog==
+  dependencies:
+    chalk "^4.1.0"
+    enhanced-resolve "^5.0.0"
+    micromatch "^4.0.0"
+    semver "^7.3.4"
 
 tsconfig-paths@^3.14.1:
   version "3.14.1"
