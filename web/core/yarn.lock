@@ -1255,12 +1255,12 @@
   dependencies:
     ckeditor5 "^31.1.0"
 
-"@ckeditor/ckeditor5-language@31.0.0":
-  version "31.0.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-language/-/ckeditor5-language-31.0.0.tgz#807ac9f6bd2c5dd59b07ae8cb169e86c26081b0f"
-  integrity sha512-3r5pv/xpErMb5QstCEpABFCifdubIw/nKSeVIPza/gIMOYExJOjVJGRsSuqsPu9QxdkxxTY62JTbjlWq/33elw==
+"@ckeditor/ckeditor5-language@31.1.0":
+  version "31.1.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-language/-/ckeditor5-language-31.1.0.tgz#ec46edef9aef72c13c15864b432b0750699a3d74"
+  integrity sha512-LRdro7Ev+zcX2V1U7e6rGt2/k42au+ZU6lPKUyDankY1gD6pN+lfZSa3r+F17kAT+EyeLfshXefGD861auvmAg==
   dependencies:
-    ckeditor5 "^31.0.0"
+    ckeditor5 "^31.1.0"
 
 "@ckeditor/ckeditor5-link@31.0.0":
   version "31.0.0"
