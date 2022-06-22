@@ -108,7 +108,7 @@
     "stylelint-checkstyle-formatter": "0.1.2",
     "stylelint-config-standard": "20.0.0",
     "stylelint-order": "4.1.0",
-    "tabbable": "5.2.1",
+    "tabbable": "5.3.3",
     "terser": "5.12.0",
     "terser-webpack-plugin": "5.3.3",
     "underscore": "1.13.4",
