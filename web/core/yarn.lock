@@ -1345,12 +1345,12 @@
   dependencies:
     ckeditor5 "^34.1.0"
 
-"@ckeditor/ckeditor5-remove-format@31.1.0":
-  version "31.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-remove-format/-/ckeditor5-remove-format-31.1.0.tgz#b2a9af5731283e8c4a600c289b74938b112ad168"
-  integrity sha512-02Q7wxWt4D5J6Ze5drha+9yd1RxBnbdn4tHoTseaoZAvuyYjt1e43jmXFfnS8/mBU2YetbM4CJ61f+lkzW5fcw==
+"@ckeditor/ckeditor5-remove-format@34.1.0":
+  version "34.1.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-remove-format/-/ckeditor5-remove-format-34.1.0.tgz#09efa83d86cf797a852ee4eae0ba90e68757995b"
+  integrity sha512-EqTgtXFvKQgJVFei9fTFmakoKkeM73PKatXgwISWYvXV1mDY8Sl8KGL22ru1p4NnKj+qnGNfEgDX+VNFo1ndhw==
   dependencies:
-    ckeditor5 "^31.1.0"
+    ckeditor5 "^34.1.0"
 
 "@ckeditor/ckeditor5-select-all@^31.1.0":
   version "31.1.0"

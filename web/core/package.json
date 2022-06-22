@@ -52,7 +52,7 @@
     "@ckeditor/ckeditor5-link": "34.1.0",
     "@ckeditor/ckeditor5-list": "34.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "34.1.0",
-    "@ckeditor/ckeditor5-remove-format": "31.1.0",
+    "@ckeditor/ckeditor5-remove-format": "34.1.0",
     "@ckeditor/ckeditor5-source-editing": "31.1.0",
     "@ckeditor/ckeditor5-special-characters": "31.1.0",
     "@ckeditor/ckeditor5-table": "31.1.0",
