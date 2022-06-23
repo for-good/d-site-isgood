@@ -97,7 +97,7 @@
     "postcss-calc": "8.2.4",
     "postcss-header": "3.0.2",
     "postcss-import": "14.1.0",
-    "postcss-preset-env": "6.7.1",
+    "postcss-preset-env": "7.7.1",
     "postcss-pxtorem": "5.1.1",
     "postcss-url": "8.0.0",
     "prettier": "2.7.1",
