@@ -95,7 +95,7 @@
     "picturefill": "3.0.3",
     "postcss": "7.0.39",
     "postcss-calc": "7.0.5",
-    "postcss-header": "2.0.0",
+    "postcss-header": "3.0.2",
     "postcss-import": "12.0.1",
     "postcss-preset-env": "6.7.1",
     "postcss-pxtorem": "5.1.1",
