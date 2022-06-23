@@ -80,7 +80,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-yml": "0.15.0",
     "farbtastic": "https://github.com/mattfarina/farbtastic/archive/1.3u.tar.gz",
-    "glob": "7.2.3",
+    "glob": "8.0.3",
     "joyride": "https://github.com/zurb/joyride/archive/refs/heads/v2.1.tar.gz",
     "jquery": "3.6.0",
     "jquery-form": "4.3.0",
