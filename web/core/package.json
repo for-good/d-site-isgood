@@ -106,7 +106,7 @@
     "sortablejs": "1.15.0",
     "stylelint": "14.9.1",
     "stylelint-checkstyle-formatter": "0.1.2",
-    "stylelint-config-standard": "20.0.0",
+    "stylelint-config-standard": "26.0.0",
     "stylelint-order": "4.1.0",
     "tabbable": "5.3.3",
     "terser": "5.14.1",
