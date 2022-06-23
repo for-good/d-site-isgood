@@ -1879,15 +1879,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@popperjs/core@2.11.5":
+"@popperjs/core@2.11.5", "@popperjs/core@^2.11.5":
   version "2.11.5"
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.5.tgz#db5a11bf66bdab39569719555b0f76e138d7bd64"
   integrity sha512-9X2obfABZuDVLCgPK9aX0a/x4jaOEweTTWE2+9sr0Qqqevj2Uv5XorvusThmc9XGYpS9yI+fhh8RTafBtGposw==
-
-"@popperjs/core@^2.9.2":
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.2.tgz#830beaec4b4091a9e9398ac50f865ddea52186b9"
-  integrity sha512-92FRmppjjqz29VMJ2dn+xdyXZBrMlE42AV6Kq6BwjWV7CNUW1hs2FtxSNLQE+gJhaZ6AAmYuO9y8dshhcBl7vA==
 
 "@stylelint/postcss-css-in-js@^0.37.2":
   version "0.37.2"
@@ -7125,12 +7120,12 @@ shelljs@^0.8.1:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shepherd.js@8.3.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/shepherd.js/-/shepherd.js-8.3.1.tgz#131eeefc5eb2bc44c9e23d0da139db46b2b55339"
-  integrity sha512-IhxZNhnK2m/pNTXudNfYrcwvcZNWkeYngQbQee8nC3xJ2GjeIatGqivhdZAMZ+LeogZvKMakB931d/V534uhrw==
+shepherd.js@10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/shepherd.js/-/shepherd.js-10.0.0.tgz#6842ca669432d4a065d4309fd4c9a35b5919bfe7"
+  integrity sha512-ogyabw8JOVQlMcwOA7RGp6splm6w3gbvYPnoIm1XjjIwcjZr82ila8vTlPObtAad7jsuU8vxEyvR1bi0IkqT2w==
   dependencies:
-    "@popperjs/core" "^2.9.2"
+    "@popperjs/core" "^2.11.5"
     deepmerge "^4.2.2"
     smoothscroll-polyfill "^0.4.4"
 
