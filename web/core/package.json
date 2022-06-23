@@ -90,7 +90,7 @@
     "loadjs": "4.2.0",
     "minimist": "1.2.6",
     "mkdirp": "1.0.4",
-    "nightwatch": "1.7.13",
+    "nightwatch": "2.2.2",
     "normalize.css": "8.0.1",
     "picturefill": "3.0.3",
     "postcss": "7.0.39",
