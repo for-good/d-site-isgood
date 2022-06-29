@@ -1105,12 +1105,12 @@
   dependencies:
     ckeditor5 "^34.1.0"
 
-"@ckeditor/ckeditor5-block-quote@34.1.0":
-  version "34.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-block-quote/-/ckeditor5-block-quote-34.1.0.tgz#d21e317a0bc157783797bf084aadecde0d3f1894"
-  integrity sha512-fs6lDcSwJMqkR+wtOPQwasOdX+xvC4Iu+zhs1/QIcg/+972dH14JAv5bLm7zpW3pWWDIr9hl9WJXWnxE9y4ygA==
+"@ckeditor/ckeditor5-block-quote@34.2.0":
+  version "34.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-block-quote/-/ckeditor5-block-quote-34.2.0.tgz#0e670c96388d91dc6b42b61eab6d5029154e5562"
+  integrity sha512-W6ht+2eO/qV4lwEwV7tEWvNxXfj1HIia7GrSjT2z2gyUYLwhjZQDIc1x4ds6517znBgMfLiDU1tH3JzqBaFQqw==
   dependencies:
-    ckeditor5 "^34.1.0"
+    ckeditor5 "^34.2.0"
 
 "@ckeditor/ckeditor5-clipboard@^34.1.0":
   version "34.1.0"
