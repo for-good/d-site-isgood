@@ -51,7 +51,7 @@
     "@ckeditor/ckeditor5-language": "34.2.0",
     "@ckeditor/ckeditor5-link": "34.2.0",
     "@ckeditor/ckeditor5-list": "34.2.0",
-    "@ckeditor/ckeditor5-paste-from-office": "34.1.0",
+    "@ckeditor/ckeditor5-paste-from-office": "34.2.0",
     "@ckeditor/ckeditor5-remove-format": "34.1.0",
     "@ckeditor/ckeditor5-source-editing": "34.1.0",
     "@ckeditor/ckeditor5-special-characters": "34.1.0",
