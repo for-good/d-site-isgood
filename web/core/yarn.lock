@@ -1252,12 +1252,12 @@
   dependencies:
     ckeditor5 "^34.2.0"
 
-"@ckeditor/ckeditor5-heading@34.1.0":
-  version "34.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-heading/-/ckeditor5-heading-34.1.0.tgz#c15210b1ff952c40aca0c28215587d3df7f7f32b"
-  integrity sha512-nLgnWCcQm85xrbGvaw03dA+IPN//TCax+jUUC2aYPN55/PBtvSQ+rra8KQxemxxghD/ddAV6w2jMTsJh0BC2Xg==
+"@ckeditor/ckeditor5-heading@34.2.0":
+  version "34.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-heading/-/ckeditor5-heading-34.2.0.tgz#a935f5d2fe038bc0182f608fd751e283d5396705"
+  integrity sha512-I/0H06LvksVPW99g2uGb6vQUX/T7o9DAUF1dMcCC5SgSXsqDmO3pdC50uKwSeLaqUxUhVFF0mjBo0inQZVX9fQ==
   dependencies:
-    ckeditor5 "^34.1.0"
+    ckeditor5 "^34.2.0"
 
 "@ckeditor/ckeditor5-horizontal-line@34.1.0":
   version "34.1.0"
