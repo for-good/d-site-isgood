@@ -1283,12 +1283,12 @@
     ckeditor5 "^34.2.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-indent@34.1.0":
-  version "34.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-indent/-/ckeditor5-indent-34.1.0.tgz#37fcc2e3c9618db23d709442ab24a83139450e47"
-  integrity sha512-UaV2k5xCyteoQtykKKUdvj03IyituuMp1AdMXtUgDEzZouDFTUfDksTSkAvGERhxiBXUjTM+zDSrXbzS368D3A==
+"@ckeditor/ckeditor5-indent@34.2.0":
+  version "34.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-indent/-/ckeditor5-indent-34.2.0.tgz#f449b81c6cde9f72b96119888be8e69943d3eb83"
+  integrity sha512-6yGuUI06C6bTpNXvUXh5/AbmYoV0FvUW23wIsarml2SgdBi/NCFDHCJsFcJn33uRQgEuZHaO2ORhOe6yQfBBFQ==
   dependencies:
-    ckeditor5 "^34.1.0"
+    ckeditor5 "^34.2.0"
 
 "@ckeditor/ckeditor5-language@34.1.0":
   version "34.1.0"
