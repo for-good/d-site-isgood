@@ -54,7 +54,7 @@
     "@ckeditor/ckeditor5-paste-from-office": "34.2.0",
     "@ckeditor/ckeditor5-remove-format": "34.2.0",
     "@ckeditor/ckeditor5-source-editing": "34.1.0",
-    "@ckeditor/ckeditor5-special-characters": "34.1.0",
+    "@ckeditor/ckeditor5-special-characters": "34.2.0",
     "@ckeditor/ckeditor5-table": "34.1.0",
     "@drupal/once": "1.0.1",
     "@popperjs/core": "2.11.5",
