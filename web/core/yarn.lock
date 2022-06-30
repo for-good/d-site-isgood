@@ -1364,13 +1364,13 @@
     "@ckeditor/ckeditor5-ui" "^34.2.0"
     "@ckeditor/ckeditor5-utils" "^34.2.0"
 
-"@ckeditor/ckeditor5-source-editing@34.1.0":
-  version "34.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-source-editing/-/ckeditor5-source-editing-34.1.0.tgz#07386e0e311239ed45f807376b75e4261d2e58f1"
-  integrity sha512-0ll7mtbuGc2L2RNN3GfFuA2laqlAjzQ6flgR3zOJJ9wSJAbJ4/siGXCaRJvATe/NB+9zJ6ZGjV5MOXhzdQjDuQ==
+"@ckeditor/ckeditor5-source-editing@34.2.0":
+  version "34.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-source-editing/-/ckeditor5-source-editing-34.2.0.tgz#c80d25cd08d8d4fc37ba3d52938973b6b92be6cb"
+  integrity sha512-FI/2czbYl58M5mkIOtokeidGTqAcxZyOZ5PsC7Mx06o7PNnNsW7/vjG7U5i2jpnWweSfZPyGVb3P5xLfgJQ0xg==
   dependencies:
-    "@ckeditor/ckeditor5-theme-lark" "^34.1.0"
-    ckeditor5 "^34.1.0"
+    "@ckeditor/ckeditor5-theme-lark" "^34.2.0"
+    ckeditor5 "^34.2.0"
 
 "@ckeditor/ckeditor5-special-characters@34.2.0":
   version "34.2.0"
@@ -1387,12 +1387,12 @@
     ckeditor5 "^34.1.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-theme-lark@^34.1.0":
-  version "34.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-theme-lark/-/ckeditor5-theme-lark-34.1.0.tgz#51959004eb898907d6669ec9f9a46285cb0afb35"
-  integrity sha512-n533HFCh+99XRm3cSBtP0jqRqHFboO0WuW1d+3hZ4F/8x+j8zEOtxI8/TrqdCAJVHAQSCkYD0oAPpkMt2aM9Ow==
+"@ckeditor/ckeditor5-theme-lark@^34.2.0":
+  version "34.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-theme-lark/-/ckeditor5-theme-lark-34.2.0.tgz#44e58cac13c285f2816cc320a88ec836f3faa53f"
+  integrity sha512-oXFtkgUs7g6u9n4KwXflLptsqIh+XMHyuZXq1//iBLKFQKpCM0NVvf7fPM4hZNKB96/khxN238hSH5bHstS6Zw==
   dependencies:
-    "@ckeditor/ckeditor5-ui" "^34.1.0"
+    "@ckeditor/ckeditor5-ui" "^34.2.0"
 
 "@ckeditor/ckeditor5-typing@^34.1.0":
   version "34.1.0"
