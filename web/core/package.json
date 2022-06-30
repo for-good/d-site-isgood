@@ -55,7 +55,7 @@
     "@ckeditor/ckeditor5-remove-format": "34.2.0",
     "@ckeditor/ckeditor5-source-editing": "34.2.0",
     "@ckeditor/ckeditor5-special-characters": "34.2.0",
-    "@ckeditor/ckeditor5-table": "34.1.0",
+    "@ckeditor/ckeditor5-table": "34.2.0",
     "@drupal/once": "1.0.1",
     "@popperjs/core": "2.11.5",
     "babel-plugin-add-header-comment": "1.0.3",
