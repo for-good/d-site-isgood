@@ -35,7 +35,7 @@
         "typo3/phar-stream-wrapper": "3.1.7",
         "twig/twig": "3.4.1",
         "doctrine/reflection": "1.2.3",
-        "doctrine/annotations": "1.13.2",
+        "doctrine/annotations": "1.13.3",
         "guzzlehttp/guzzle": "7.4.5",
         "symfony-cmf/routing": "3.0.0",
         "laminas/laminas-feed": "2.17.0",
