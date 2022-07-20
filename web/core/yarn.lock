@@ -1221,12 +1221,12 @@
     "@ckeditor/ckeditor5-utils" "^34.2.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-dev-utils@30.3.2", "@ckeditor/ckeditor5-dev-utils@^30.3.2":
-  version "30.3.2"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.2.tgz#af9de162f7198daca6da9a3301c39464ea6940f7"
-  integrity sha512-/d5bq6pMuYdmT+TygJUdqe2f6p+Ru1oo3+4sEpGvpDm/k49sIV5c73WIQbQuPN4pSH/qjFIWWYN5VwCTKUgxIQ==
+"@ckeditor/ckeditor5-dev-utils@30.3.3", "@ckeditor/ckeditor5-dev-utils@^30.3.3":
+  version "30.3.3"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.3.tgz#9775efa1989b8a84ccbe9fa4f3c41b6d1a56e5db"
+  integrity sha512-xlfC9PlsWhhpDpDKNR5GnvF8UFoJ213yIna1OsSm/ilbjbM1S6UD6MQDptCRKu16iOkfvJIKeNZYKDRRuNNnkA==
   dependencies:
-    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.2"
+    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.3"
     acorn "^6.2.1"
     acorn-walk "^6.2.0"
     chalk "^3.0.0"
@@ -1251,12 +1251,12 @@
     through2 "^3.0.1"
     ts-loader "^9.3.0"
 
-"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.2":
-  version "30.3.2"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.2.tgz#6c6236fa5d6028ef8f65d2483b8efbdd678981f7"
-  integrity sha512-IWsqWBnCOukSE6OFnXuqW9HLctxCnMzhhVjiDrP49I/REYu04sF35Un/IvRaFP2L/VEBj2hrS25KqSDY/O2Z4Q==
+"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.3":
+  version "30.3.3"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.3.tgz#1e1cc2ae6c58c4c2983abe155c3b92df1f9c33ff"
+  integrity sha512-M2fngFZ6UCOBpYiSiqTAOocFnCEY+hX/2kuap+ojttwhL/qMGTwWZzNp8SrtwS+abr+acEEKtB6RZhkvga5w/w==
   dependencies:
-    "@ckeditor/ckeditor5-dev-utils" "^30.3.2"
+    "@ckeditor/ckeditor5-dev-utils" "^30.3.3"
     chalk "^4.0.0"
     rimraf "^3.0.2"
     semver "^7.3.4"
