@@ -1221,14 +1221,14 @@
     "@ckeditor/ckeditor5-utils" "^34.2.0"
     lodash-es "^4.17.15"
 
-"@ckeditor/ckeditor5-dev-utils@30.3.4", "@ckeditor/ckeditor5-dev-utils@^30.3.4":
-  version "30.3.4"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.4.tgz#26699b42b900f68b8366a9d585507803f59a6ed4"
-  integrity sha512-IBwjP92Hw9/9GBCXCQggtiFZcMQy2pCu4jcn0dAXPQbq5kfao2sQhcZOW4y9dinc4hxWs/DupePfa8MaYd2sBQ==
+"@ckeditor/ckeditor5-dev-utils@30.3.5", "@ckeditor/ckeditor5-dev-utils@^30.3.5":
+  version "30.3.5"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-utils/-/ckeditor5-dev-utils-30.3.5.tgz#7c4592ed37e1f7d87fb4187cd0a15266b4ab2db9"
+  integrity sha512-SQABOw+vda+IASTzAuZVMu8cZomvJ/Qk4QIdMJ6coyh29SR2pve/RiqcyaJucpI3W6ypInvwDp0QClrZqsO0LA==
   dependencies:
-    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.4"
-    acorn "^6.2.1"
-    acorn-walk "^6.2.0"
+    "@babel/parser" "^7.18.9"
+    "@babel/traverse" "^7.18.9"
+    "@ckeditor/ckeditor5-dev-webpack-plugin" "^30.3.5"
     chalk "^3.0.0"
     cli-cursor "^3.1.0"
     cli-spinners "^2.6.1"
@@ -1251,12 +1251,12 @@
     through2 "^3.0.1"
     ts-loader "^9.3.0"
 
-"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.4":
-  version "30.3.4"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.4.tgz#27e9c6a482bf3548aee57d840a796770bc56d0ff"
-  integrity sha512-1QdZa0gv9PrVkKPfmgBC3RN+8qHysLrQAgCXmpPDJB7Azpzc/45qzdwGIpUREQj/yA0o6cpfjFPl9dFB138GWg==
+"@ckeditor/ckeditor5-dev-webpack-plugin@^30.3.5":
+  version "30.3.5"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-dev-webpack-plugin/-/ckeditor5-dev-webpack-plugin-30.3.5.tgz#5c5de1b633d0471bd50c69c2c1a476037c198a38"
+  integrity sha512-CsH4fSRLYJ1YeraetX+JjazP7vcCLrRBH2+VxKuk+VoEZ09dAHCV2jg2SNdAucAK8OQQX6PWguY0gQWv8fsr6g==
   dependencies:
-    "@ckeditor/ckeditor5-dev-utils" "^30.3.4"
+    "@ckeditor/ckeditor5-dev-utils" "^30.3.5"
     chalk "^4.0.0"
     rimraf "^3.0.2"
     semver "^7.3.4"
@@ -2267,20 +2267,10 @@ acorn-jsx@^5.3.2:
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
   integrity sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==
 
-acorn-walk@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
-  integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
-
 acorn-walk@^7.1.1:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-7.2.0.tgz#0de889a601203909b0fbe07b8938dc21d2e967bc"
   integrity sha512-OPdCF6GsMIP+Az+aWfAAOEt2/+iVDKE7oy6lJ098aoe59oAmK76qV6Gw60SbZ8jHuG2wH058GF4pLFbYamYrVA==
-
-acorn@^6.2.1:
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.2.tgz#35866fd710528e92de10cf06016498e47e39e1e6"
-  integrity sha512-XtGIhXwF8YM8bJhGxG5kXgjkEuNGLTkoYqVE+KMR+aspr4KGYmKYg7yUe3KghyQ9yheNwLnjmzh/7+gfDBmHCQ==
 
 acorn@^7.1.1:
   version "7.4.1"
